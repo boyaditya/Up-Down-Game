@@ -40,6 +40,10 @@ To run the project, use the following command:
 java -cp lib/forms_rt.jar;lib/mysql-connector-j-8.3.0.jar; Main
 ```
 
+### Controls
+- **WASD or Arrow Keys**: Move the player
+- **Space**: End the game
+
 ### Authors
 - Boy Aditya Rohmaulana
 
