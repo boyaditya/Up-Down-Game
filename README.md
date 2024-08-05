@@ -2,17 +2,25 @@
 
 Up Down Game is a Java-based application that follows the Model-View-ViewModel (MVVM) architectural pattern. This project is designed to demonstrate the use of MVVM in a Java application, incorporating various components such as game logic, user interface, and database interactions.
 
+
+
+
+https://github.com/user-attachments/assets/72d2a6d5-2fcc-44b6-8c71-db2c4d5b78a8
+
+
 ## Getting Started
 
 ### Prerequisites
 
 - Java Development Kit (JDK)
+- XAMPP or any other application that provides a local MySQL server
 - MySQL Connector (included in the `lib` directory)
 - An IDE such as IntelliJ IDEA or Visual Studio Code
 
 ### Database Setup
 1. Import the `db_tmd.sql` file into your MySQL database.
 2. Update the database connection settings in the `DB.java` file located in the `model` package.
+3. Start the MySQL server using XAMPP or any other local server application.
 
 
 ### Building the Project
